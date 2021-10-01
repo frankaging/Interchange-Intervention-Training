@@ -1,10 +1,11 @@
 *****
-Counterfactual Training
+# Counterfactual Training
 *****
+
 
 Inducing symbolic causal structures to produce systematic and interpretable neural networks
 
-Installation
+# Installation
 ==========================================================================
 First clone the directory. Then run the following command to initialize the submodules:
 
@@ -19,6 +20,6 @@ Each time pulling from the repository, should do it for both the main repository
    bash pull.sh
 
 
-Usage
+# Usage
 ==========================================================================
 You will find examples where we implement counterfactual training under `./examples` folder.

@@ -1,0 +1,3 @@
+[submodule "examples/ReaSCAN-Causal"]
+	path = examples/ReaSCAN-Causal
+	url = git@github.com:frankaging/ReaSCAN-Causal.git

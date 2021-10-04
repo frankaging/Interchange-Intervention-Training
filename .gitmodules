@@ -4,3 +4,6 @@
 [submodule "examples/MQNLICounterfactualTraining"]
 	path = examples/MQNLICounterfactualTraining
 	url = https://github.com/hansonhl/MQNLICounterfactualTraining
+[submodule "examples/Causal-Distill"]
+	path = examples/Causal-Distill
+	url = git@github.com:frankaging/Causal-Distill.git

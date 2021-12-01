@@ -1,6 +1,6 @@
-# Counterfactual Training
+# Interchange Intervention Training
 
-Inducing symbolic causal structures to produce systematic and interpretable neural networks
+Inducing Causal Structure for Interpretable Neural Networks
 
 ### Installation
 *****

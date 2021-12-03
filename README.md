@@ -1,8 +1,11 @@
-# Counterfactual Training
+# Interchange Intervention Training (IIT)
 
-Inducing symbolic causal structures to produce systematic and interpretable neural networks
+Codebase for Inducing Causal Structure for Interpretable Neural Networks
 
-### Installation
+## Release Notes
+* **12/01/2021**: Code and [Paper](https://arxiv.org/abs/2112.00826) are initially released. Stay tuned for complete implementation for all case studies.
+
+## Installation
 *****
 First clone the directory. Then run the following command to initialize the submodules:
 
@@ -16,6 +19,6 @@ Each time pulling from the repository, should do it for both the main repository
 bash pull.sh
 ```
 
-### Usage
+## Usage
 *****
-You will find examples where we implement counterfactual training under `./examples` folder.
+You will find examples where we implement interchange intervention training (IIT) under `./examples` folder.

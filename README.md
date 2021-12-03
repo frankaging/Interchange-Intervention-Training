@@ -1,4 +1,4 @@
-# Interchange Intervention Training
+# Interchange Intervention Training (IIT)
 
 Codebase for Inducing Causal Structure for Interpretable Neural Networks
 
@@ -21,4 +21,4 @@ bash pull.sh
 
 ## Usage
 *****
-You will find examples where we implement counterfactual training under `./examples` folder.
+You will find examples where we implement interchange intervention training (IIT) under `./examples` folder.
